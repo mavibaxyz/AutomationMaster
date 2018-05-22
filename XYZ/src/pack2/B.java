@@ -16,6 +16,7 @@ public class B {
 		//successfully resolved conflict
 		//maviba technologies
 		// xyc
+		// abc is created
 	}
 
 }
