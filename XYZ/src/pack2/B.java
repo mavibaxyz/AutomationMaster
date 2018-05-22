@@ -13,6 +13,7 @@ public class B {
 		// recent modified
 		//hello Selenium world
 		// adding new feature
+		//successfully resolved conflict
 	}
 
 }
