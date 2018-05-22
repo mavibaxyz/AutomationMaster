@@ -14,6 +14,7 @@ public class B {
 		//hello Selenium world
 		// adding new feature
 		//successfully resolved conflict
+		//maviba technologies
 	}
 
 }
